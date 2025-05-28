@@ -22,6 +22,8 @@
   
   #### my discord's server, let's talk!
   [![](https://dcbadge.limes.pink/api/server/https://discord.gg/f4gwGPEVCY)](https://discord.gg/f4gwGPEVCY)
+
+  wanna talk? email me: talyson.ads12@gmail.com
 </div> 
  
 <!--### Main skills:
