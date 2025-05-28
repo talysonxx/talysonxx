@@ -9,7 +9,7 @@
   <!--<img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=talysonxx&layout=compact&hide_border=true&title_color=00bfbf&text_color=00bfbf&bg_color=0d1117" />-->
 </div>
 
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=talysonxx&bg_color=000000&color=15e5a6&line=07e9a5&point=0a855c&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+<!--[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=talysonxx&bg_color=000000&color=15e5a6&line=07e9a5&point=0a855c&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)-->
 
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=talysonxx&theme=dracula&row=2&no-bg=true&column=3&margin-w=15&margin-h=15" />
@@ -19,10 +19,10 @@
   <!--#### wanna talk? let's talk
   ![X (formerly Twitter) Follow](https://img.shields.io/twitter/follow/user)-->
   <!--<a href="https://www.instagram.com/user/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white"</a>-->
-  #### my discord's server!
+  
+  #### my discord's server, let's talk!
   [![](https://dcbadge.limes.pink/api/server/https://discord.gg/f4gwGPEVCY)](https://discord.gg/f4gwGPEVCY)
 </div> 
-
  
 <!--### Main skills:
 ![Node.JS](https://img.shields.io/badge/-Node.JS-0D1117?style=for-the-badge&logo=node.js&labelColor=0D1117&textColor=0D1117)&nbsp;
@@ -58,12 +58,9 @@
 ![GOLANG](https://img.shields.io/badge/-React.js-0D1117?style=for-the-badge&logo=react&labelColor=0D1117)&nbsp;
 ![MySQL](https://img.shields.io/badge/-JavaScript-0D1117?style=for-the-badge&logo=javascript&labelColor=0D1117&textColor=0D1117)&nbsp;00-->
 
-
 <div align="center">
 <br><p align="centre"><b>visitors count</b></p>  
 <p align="center"><img align="center" src="https://profile-counter.glitch.me/{talysonxx}/count.svg" /></p> 
 <br></div>
 
-
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00bfbf&height=120&section=footer"/>
-
+<img width=100% src="https://github.com/user-attachments/assets/73a13692-8a4b-4e9d-bcce-82a5c9581ab6"/>
