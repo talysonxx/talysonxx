@@ -28,8 +28,8 @@
 
 ### contacts:
 talyson.ads12@gmail.com<br>
-<a href="https://www.linkedin.com/in/talysonxx/" target="_blank">linkedin</a><br>
-<a href="https://discord.gg/asWuyAMy" target="_blank">discord</a> (my favorite)
+[linkedin](https://www.linkedin.com/in/talysonxx/)<br>
+[discord](https://discord.gg/asWuyAMy) (my favorite)
  
 <!--### Main skills:
 ![Node.JS](https://img.shields.io/badge/-Node.JS-0D1117?style=for-the-badge&logo=node.js&labelColor=0D1117&textColor=0D1117)&nbsp;
