@@ -4,16 +4,18 @@
 
 <div align="center"><h4>i study analysis and systems development at <a href="https://fadesa.edu.br/">FADESA</a>. aspiring back-end developer</h4></div>
 
-<div align="center">  
+<p>my main interest lies in backend development, where i'm learning python and php. i've also begun a journey into cybersecurity to broaden my knowledge.</p>
+
+<!--<div align="center">  
   <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=talysonxx&show_icons=true&count_private=true&hide_border=true&title_color=00bfbf&icon_color=00bfbf&text_color=c9d1d9&bg_color=0d1117" alt="talysonxx github stats"/> 
-  <!--<img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=talysonxx&layout=compact&hide_border=true&title_color=00bfbf&text_color=00bfbf&bg_color=0d1117" />-->
-</div>
+  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=talysonxx&layout=compact&hide_border=true&title_color=00bfbf&text_color=00bfbf&bg_color=0d1117" />
+</div>-->
 
 <!--[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=talysonxx&bg_color=000000&color=15e5a6&line=07e9a5&point=0a855c&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)-->
 
-<p align="center">
+<!--<p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=talysonxx&theme=dracula&row=2&no-bg=true&column=3&margin-w=15&margin-h=15" />
-</p>
+</p>-->
 
 <div align="center">  
   <!--#### wanna talk? let's talk
@@ -36,7 +38,7 @@
 ![GitHub](https://img.shields.io/badge/-GitHub-0D1117?style=for-the-badge&logo=github&labelColor=0D1117)&nbsp;
 ![windSurf](https://img.shields.io/badge/-windsurf-0D1117?style=for-the-badge&logo=windsurf&labelColor=0D1117)&nbsp;
 ![Linux](https://img.shields.io/badge/-Linux-0D1117?style=for-the-badge&logo=linux&logoColor=white)&nbsp;
-![Fedora](https://img.shields.io/badge/-Fedora-0D1117?style=for-the-badge&logo=fedora&logoColor=white)
+<!--![Fedora](https://img.shields.io/badge/-Fedora-0D1117?style=for-the-badge&logo=fedora&logoColor=white)-->
  
 ### other knowledge:
 ![HTML](https://img.shields.io/badge/-HTML-0D1117?style=for-the-badge&logo=html5&labelColor=0D1117)&nbsp;
@@ -52,9 +54,9 @@
 ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
 
 ### wanna talk? my contacts:
-talyson.ads12@gmail.com<br>
+talyson.ads12@outlook.com<br>
 [linkedin](https://www.linkedin.com/in/talysonxx/)<br>
-[discord](https://discord.gg/asWuyAMy) (my favorite)
+[discord](https://discord.gg/asWuyAMy)
 
 <br><br>
 
