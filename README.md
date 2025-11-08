@@ -1,6 +1,6 @@
 <img width=100% src="https://github.com/user-attachments/assets/e0d7d497-3a28-47ce-995a-8643179b6c42"/>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00bfbf&size=35&center=true&vCenter=true&width=1000&lines=hello,+my+name+is+talyson!!;make+yourself+at+home!+:%29)](https://git.io/typing-svg) 
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00bfbf&size=35&center=true&vCenter=true&width=1000&lines=hello+all!!;make+yourself+at+home!+:%29)](https://git.io/typing-svg) 
 
 <div align="center"><h4>i study analysis and systems development at <a href="https://fadesa.edu.br/">FADESA</a>. aspiring back-end developer</h4></div>
 
